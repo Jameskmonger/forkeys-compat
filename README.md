@@ -1,6 +1,6 @@
 # forkeys-compat
 
-A wrapper around `Object.keys(...).forEach(...)`.
+A version of [forkeys](http://github.com/jameskmonger/forkeys) with compatibility for non-ES6.
 
 ## Example
 
