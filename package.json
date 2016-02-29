@@ -1,21 +1,21 @@
 {
-  "name": "forkeys",
+  "name": "forkeys-compat",
   "version": "1.0.0",
-  "description": "A wrapper around Object.keys(...).forEach(...)",
+  "description": "A version of forkeys for non-ES6",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jameskmonger/forkeys.git"
+    "url": "https://github.com/Jameskmonger/forkeys-compat.git"
   },
   "author": "James Monger <jameskmonger@hotmail.co.uk> (http://github.com/jameskmonger)",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/Jameskmonger/forkeys/issues"
+    "url": "https://github.com/Jameskmonger/forkeys-compat/issues"
   },
-  "homepage": "https://github.com/Jameskmonger/forkeys",
+  "homepage": "https://github.com/Jameskmonger/forkeys-compat",
   "files": [
       "index.js"
   ]
