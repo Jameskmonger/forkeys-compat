@@ -1,5 +1,7 @@
-((m) => {
+(function(m) {
     "use strict";
 
-    m.exports = (obj, cb) => Object.keys(obj).forEach(cb);
+    m.exports = function (obj, cb) {
+        Object.keys(obj).forEach(cb);
+    };
 })(module);
