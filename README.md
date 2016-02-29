@@ -1,4 +1,4 @@
-# forkey
+# forkeys-compat
 
 A wrapper around `Object.keys(...).forEach(...)`.
 
