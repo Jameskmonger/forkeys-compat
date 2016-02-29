@@ -1,6 +1,6 @@
 {
   "name": "forkeys-compat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A version of forkeys for non-ES6",
   "main": "index.js",
   "scripts": {
